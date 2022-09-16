@@ -1,4 +1,8 @@
 What is a gitignore file and what should it include for a Java project?
+git ignore is used to tell git to ignore which files when commiting your project on GitHub Repository
 What does fast-forward in git mean?
+When the new changes in branch repository are directly commited 
 Why should you have different branches?
+Branching allows each and every developer to make changes on their own away from the original code. 
 In a project how many remote Git repositories do you usually have?
+It depends on the organization developing the project. 
